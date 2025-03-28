@@ -1,4 +1,4 @@
-# Machine Learning Foundations | Batch 38
+# Machine Learning Foundations 
 
 *Structured learning materials from Ostad’s guidance (Batch 38)*  
 
